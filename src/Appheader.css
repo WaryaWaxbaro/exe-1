@@ -1,0 +1,25 @@
+// Product Header styles
+.product-header-container {
+  background-color: red;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 960px;
+  height: 120px;
+  margin: 20px auto;
+}
+
+.product-header-img {
+  width: 96px;
+  height: 96px;
+  min-width: 96px;
+  border-radius: 200px;
+  margin-right: 20px;
+}
+
+.product-header-title {
+  font-size: 24px;
+}
